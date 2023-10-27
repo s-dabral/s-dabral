@@ -8,8 +8,8 @@
 </div>
 <br>
 **💬 A Student Pursuing Bachelor of Technology in Computer Science <br>
-**🔭 I’m currently working on my project of  <b>Machine Learning </b> <br>
-<!-- **🌱 I’m currently learning Full-Stack Development** -->
+**🔭 I’m currently working on my projects of  <b>Machine Learning and learning new CLoud Technologies. </b> <br>
+
 <br>
 <br>
 
