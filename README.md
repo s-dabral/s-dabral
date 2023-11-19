@@ -8,7 +8,7 @@
 </div>
 <br>
 **💬 A Student Pursuing Bachelor of Technology in Computer Science <br>
-**🔭 I’m currently working on my projects of  <b>Machine Learning and learning new CLoud Technologies. </b> <br>
+**🔭 I’m currently working on my projects of  <b>Machine Learning and learning new Cloud Technologies. </b> <br>
 
 <br>
 <br>
